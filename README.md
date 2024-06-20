@@ -25,7 +25,7 @@ minSdkVersion = 21
 ## 🚚 Installation
 
 ### Maven
-The latest release is available on ![Maven Central](https://central.sonatype.com/artifact/io.github.mukeshsolanki/webrtc-android)
+The latest release is available on [Maven Central](https://central.sonatype.com/artifact/io.github.mukeshsolanki/webrtc-android)
 
 **Gradle Groovy DSL**
 
