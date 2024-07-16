@@ -30,13 +30,13 @@ The latest release is available on [Maven Central](https://central.sonatype.com/
 **Gradle Groovy DSL**
 
 ```
-implementation 'com.dafruits:webrtc:126'
+implementation 'io.github.mukeshsolanki:webrtc-android:<latest-version>'
 ```
 
 **Gradle Kotlin DSL**
 
 ```
-implementation("com.dafruits:webrtc:126")
+implementation("io.github.mukeshsolanki:webrtc-android:<latest-version>")
 ```
 
 **Manual**
@@ -46,7 +46,7 @@ implementation("com.dafruits:webrtc:126")
 * Include the following line in the dependencies section of your build.gradle.kts file
 
 ```
-implementation(files("libs/libwebrtc-126.aar"))
+implementation(files("libs/libwebrtc-<latest-version>.aar"))
 ```
 
 ### Proguard
